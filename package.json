@@ -1,6 +1,6 @@
 {
   "name": "prompt-input",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Prompt user inputs with styling",
   "main": "index.js",
   "dependencies": {
