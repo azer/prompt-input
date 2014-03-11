@@ -35,7 +35,7 @@ function prompt (questions, callback) {
 function ask (question, callback) {
   var answer = '';
 
-  stdout.write('    ' + format(question) + '  ');
+  stdout.write('  ' + format(question) + ' ');
   stdin.setEncoding('utf8');
   stdin.resume();
   stdin.on('keypress', onKeyPress);
