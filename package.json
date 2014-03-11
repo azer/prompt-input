@@ -1,0 +1,24 @@
+{
+  "name": "prompt-input",
+  "version": "0.0.0",
+  "description": "Prompt user inputs with styling",
+  "main": "index.js",
+  "dependencies": {
+    "style-format": "*",
+    "iter": "0.0.9",
+    "read": "~1.0.5",
+    "keypress": "~0.2.1"
+  },
+  "keywords": [
+    "prompt",
+    "cli",
+    "input",
+    "question"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/prompt-input.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD"
+}
